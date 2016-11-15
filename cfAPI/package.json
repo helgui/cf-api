@@ -1,0 +1,13 @@
+{
+  "name": "cfAPI",
+  "version": "1.0.0",
+  "description": "Codeforces API Wrapper",
+  "main": "app.js",
+  "author": {
+    "name": "Oleg Yakovlev",
+    "email": "maucra@gmail.com"
+  },
+  "dependencies": {
+    "sync-request": "^3.0.0"
+  }
+}
